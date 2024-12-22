@@ -1,10 +1,11 @@
-## 👋  Hello there! My name is Mehdi HYANI! Nice to meet you! 
+## 👋  Whoami
 
-Hi My name is Mehdi HYANI I'm a fullstack software developer, passionate about what I do and always up to the task. With more than 3 years experience developing and maintaining web applications, I'm always keeping up with the latest technologies and always making sure my projects are up to the satisfaction of the users. I am currently a computer science student working as part-time Software developer in [neoCedrus](https://github.com/neocedrus). My interests include but not limited to: Front-end Development, Back-end development, Database management, Cybersecurity, Machine Learning, Deep Learning, DevOps.
+Hello there! My name is Mehdi HYANI! a passionate and ambitious Full-Stack Software Developer with 3+ years of experience crafting dynamic and innovative web applications. Currently, I'm honing my skills as a Junior Software Engineer at the [Boston Consulting Group](bcg.com), where I bring cutting-edge ideas to life while staying ahead of the curve in the tech world.
+
+Every project I work on reflects my commitment to excellence and my drive to leave a lasting impact. Beyond coding, I’m always curious, constantly learning, and striving to innovate. Let’s build something amazing together! 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mehdi_Hyani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-hyani-aa02a11aa/)](https://www.linkedin.com/in/mehdi-hyani-aa02a11aa/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:me@mehdihyani.me)](mailto:me@mehdihyani.me)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5b6eae?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.com/users/391704834874540042)](https://discord.com/users/391704834874540042)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:me@mehdihyani.me)](mailto:hyanimehdi115@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000080?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.mehdihyani.me/)](https://www.mehdihyani.me/)
 
 ## ⚡ Technologies
@@ -17,12 +18,6 @@ Hi My name is Mehdi HYANI I'm a fullstack software developer, passionate about w
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=Databricks&logoColor=blue)
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go+%28Beginner%29&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
-![Lua](https://img.shields.io/static/v1?style=for-the-badge&message=Lua+%28beginner%29&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=)
 
 
 ### Libraries & Frameworks :
@@ -30,13 +25,11 @@ Hi My name is Mehdi HYANI I'm a fullstack software developer, passionate about w
 #### Front-end:
 
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
 ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
 ![Ionic](https://img.shields.io/static/v1?style=for-the-badge&message=Ionic&color=3880FF&logo=Ionic&logoColor=FFFFFF&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js+%28beginner%29&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 
 #### Back-end
 
@@ -50,8 +43,6 @@ Hi My name is Mehdi HYANI I'm a fullstack software developer, passionate about w
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
-![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB+%28beginner%29&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 
 
 #### DevOps
